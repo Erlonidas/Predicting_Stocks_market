@@ -25,4 +25,4 @@ the rest of the downtrend (TF=M30)
 
 In this image, in blue you see all data from IBOV between 10/06/2021 until 01/12/2021 TF = 30 min, used to be in train phase.
 in red you see the data for test and orange is the prediction used with Hot-Winter technique.
-There are other few analysis and predictions with others techniques. Checkout at .ipynb files in 'Atividade' folder.
+There are other few analysis and predictions with others techniques. Checkout in 'advanced analysis' folder.
